@@ -25,4 +25,3 @@ You can find four cralwers in /APKCrawler/Src/, they are quite similar and inclu
 + Get Direct Link
     
     In a detailed page, you can get all direct link of apks, remember to store them.
-    
