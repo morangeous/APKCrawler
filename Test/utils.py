@@ -1,4 +1,5 @@
 import re
+import sys
 
 PATTERN = "^http:\/\/zhushou\.360\.cn\/list\/index\/cid\/[0-9]+\/$"
 
@@ -10,7 +11,10 @@ def filter(links: list):
         else:
             pass
 
-def download(link:str):
+def url_transformer(url: str) -> str:
+    pass
+
+
 
 
 with open("../Data/links.txt", 'r') as f:
